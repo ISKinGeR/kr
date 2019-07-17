@@ -1,0 +1,21 @@
+{
+  "name": "t1",
+  "version": "1.0.0",
+  "description": "TEST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ned",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "djs-commands": "^1.2.2",
+    "eris": "^0.9.0",
+    "ms": "^2.1.1"
+  },
+  "devDependencies": {
+    "typescript": "^3.5.1"
+  },
+  "keywords": []
+}
